@@ -8,6 +8,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "axios": "^0.26.0",
+    "daisyui": "^2.2.2",
     "install": "^0.13.0",
     "vue": "^3.2.25"
   },
